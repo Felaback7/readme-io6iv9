@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Felaback7.github.io/readme-io6iv9/sitemap.xml
